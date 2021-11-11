@@ -1,0 +1,60 @@
+Jobid: 364164
+qsub --mode script -n 2 -t 60 -O runs2 -qdebug-cache-quad -A EE-ECP runs.sh
+Wed Aug 21 15:47:58 2019 +0000 (UTC) submitted with cwd set to: /lus/theta-fs0/projects/EE-ECP/wuxf/work/Benchmark/Pilot1/NT3
+jobid 364164 submitted from terminal /dev/pts/13
+2019-08-21 16:40:23,760 INFO: Starting Resource_Prologue
+2019-08-21 16:40:23,762 DEBUG: no enabling attribute found
+2019-08-21 16:40:23,763 INFO: Resource_Prologue finished with exit code 0
+Wed Aug 21 16:40:52 2019 +0000 (UTC) 
+Wed Aug 21 16:40:52 2019 +0000 (UTC) Command: '/lus/theta-fs0/projects/EE-ECP/wuxf/work/Benchmark/Pilot1/NT3/runs.sh'
+Wed Aug 21 16:40:52 2019 +0000 (UTC) 
+Wed Aug 21 16:40:52 2019 +0000 (UTC) Environment:
+Wed Aug 21 16:40:52 2019 +0000 (UTC) COBALT_PARTCORES=64
+Wed Aug 21 16:40:52 2019 +0000 (UTC) SHELL=/bin/tcsh
+Wed Aug 21 16:40:52 2019 +0000 (UTC) COBALT_PROJECT=EE-ECP
+Wed Aug 21 16:40:52 2019 +0000 (UTC) COBALT_PARTNAME=3824-3825
+Wed Aug 21 16:40:52 2019 +0000 (UTC) COBALT_JOBID=364164
+Wed Aug 21 16:40:52 2019 +0000 (UTC) COBALT_STARTTIME=1566405605
+Wed Aug 21 16:40:52 2019 +0000 (UTC) LOGNAME=wuxf
+Wed Aug 21 16:40:52 2019 +0000 (UTC) USER=wuxf
+Wed Aug 21 16:40:52 2019 +0000 (UTC) COBALT_ENDTIME=1566409205
+Wed Aug 21 16:40:52 2019 +0000 (UTC) COBALT_PARTSIZE=2
+Wed Aug 21 16:40:52 2019 +0000 (UTC) HOME=/home/wuxf
+Wed Aug 21 16:40:52 2019 +0000 (UTC) COBALT_JOBSIZE=2
+Wed Aug 21 16:40:52 2019 +0000 (UTC) COBALT_QUEUE=debug-cache-quad
+Wed Aug 21 16:40:52 2019 +0000 (UTC) 
+Wed Aug 21 16:40:52 2019 +0000 (UTC) Info: stdin received from /dev/null
+Wed Aug 21 16:40:52 2019 +0000 (UTC) Info: stdout sent to /lus/theta-fs0/projects/EE-ECP/wuxf/work/Benchmark/Pilot1/NT3/runs2.output
+Wed Aug 21 16:40:52 2019 +0000 (UTC) Info: stderr sent to /lus/theta-fs0/projects/EE-ECP/wuxf/work/Benchmark/Pilot1/NT3/runs2.error
+Wed Aug 21 16:40:52 2019 +0000 (UTC) 
+Wed Aug 21 16:59:31 2019 +0000 (UTC) Info: task completed normally with an exit code of 0; initiating job cleanup and removal
+Jobid: 364192
+qsub --mode script -n 2 -t 60 -O runs2 -qdebug-cache-quad -A EE-ECP runs.sh
+Wed Aug 21 16:59:50 2019 +0000 (UTC) submitted with cwd set to: /lus/theta-fs0/projects/EE-ECP/wuxf/work/Benchmark/Pilot1/NT3
+jobid 364192 submitted from terminal /dev/pts/13
+2019-08-21 17:10:21,787 INFO: Starting Resource_Prologue
+2019-08-21 17:10:21,800 DEBUG: no enabling attribute found
+2019-08-21 17:10:21,800 INFO: Resource_Prologue finished with exit code 0
+Wed Aug 21 17:10:50 2019 +0000 (UTC) 
+Wed Aug 21 17:10:50 2019 +0000 (UTC) Command: '/lus/theta-fs0/projects/EE-ECP/wuxf/work/Benchmark/Pilot1/NT3/runs.sh'
+Wed Aug 21 17:10:50 2019 +0000 (UTC) 
+Wed Aug 21 17:10:50 2019 +0000 (UTC) Environment:
+Wed Aug 21 17:10:50 2019 +0000 (UTC) COBALT_PARTCORES=64
+Wed Aug 21 17:10:50 2019 +0000 (UTC) SHELL=/bin/tcsh
+Wed Aug 21 17:10:50 2019 +0000 (UTC) COBALT_PROJECT=EE-ECP
+Wed Aug 21 17:10:50 2019 +0000 (UTC) COBALT_PARTNAME=3828-3829
+Wed Aug 21 17:10:50 2019 +0000 (UTC) COBALT_JOBID=364192
+Wed Aug 21 17:10:50 2019 +0000 (UTC) COBALT_STARTTIME=1566407404
+Wed Aug 21 17:10:50 2019 +0000 (UTC) LOGNAME=wuxf
+Wed Aug 21 17:10:50 2019 +0000 (UTC) USER=wuxf
+Wed Aug 21 17:10:50 2019 +0000 (UTC) COBALT_ENDTIME=1566411004
+Wed Aug 21 17:10:50 2019 +0000 (UTC) COBALT_PARTSIZE=2
+Wed Aug 21 17:10:50 2019 +0000 (UTC) HOME=/home/wuxf
+Wed Aug 21 17:10:50 2019 +0000 (UTC) COBALT_JOBSIZE=2
+Wed Aug 21 17:10:50 2019 +0000 (UTC) COBALT_QUEUE=debug-cache-quad
+Wed Aug 21 17:10:50 2019 +0000 (UTC) 
+Wed Aug 21 17:10:50 2019 +0000 (UTC) Info: stdin received from /dev/null
+Wed Aug 21 17:10:50 2019 +0000 (UTC) Info: stdout sent to /lus/theta-fs0/projects/EE-ECP/wuxf/work/Benchmark/Pilot1/NT3/runs2.output
+Wed Aug 21 17:10:50 2019 +0000 (UTC) Info: stderr sent to /lus/theta-fs0/projects/EE-ECP/wuxf/work/Benchmark/Pilot1/NT3/runs2.error
+Wed Aug 21 17:10:50 2019 +0000 (UTC) 
+Wed Aug 21 17:20:52 2019 +0000 (UTC) Info: task completed normally with an exit code of 0; initiating job cleanup and removal

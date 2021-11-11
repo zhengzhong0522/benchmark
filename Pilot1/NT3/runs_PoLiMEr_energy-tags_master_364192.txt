@@ -1,0 +1,2 @@
+Tag Name	Timestamp	Start Time (s)	End Time (s)	Total Time (s)		Total Cray node E (J)	Total Cray cpu E (J)	Total Cray memory E (J)	Total Cray node P (W)	Total Cray cpu P (W)	Total Cray memory P (W)	Total Cray node calc P (W)	Total Cray cpu calc P (W)	Total Cray memory calc P (W)
+application_summary	2019-08-21 17:11:59	0.000000	486.000000	486.000000	73227.000000	48918.000000	6391.000000	43.000000	3.000000	0.000000	150.672840	100.654321	13.150206	

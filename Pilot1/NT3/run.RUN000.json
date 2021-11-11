@@ -1,0 +1,147 @@
+[
+    {
+        "parameters": [
+            "loss: categorical_crossentropy",
+            "optimizer: sgd",
+            "batch_size: 20",
+            "shuffle: False",
+            "out_act: softmax",
+            "activation: relu",
+            "epochs: 2",
+            "total_params: 154922918",
+            "trainable_params: 154922918",
+            "model_name: nt3",
+            "drop: 0.1",
+            "datatype: <class 'numpy.float32'>",
+            "rng_seed: 7102",
+            "learning_rate: 0.001",
+            "train_bool: True",
+            "logfile: None",
+            "non_trainable_params: 0",
+            "pool: [1, 10]",
+            "test_data: nt_test2.csv",
+            "experiment_id: EXP000",
+            "verbose: None",
+            "classes: 2",
+            "conv: [128, 20, 1, 128, 10, 1]",
+            "data_url: file:///lus/theta-fs0/projects/EE-ECP/wuxf/work/Benchmark/Data/Pilot1/",
+            "dense: [200, 20]",
+            "timeout: -1",
+            "output_dir: /lus/theta-fs0/projects/EE-ECP/wuxf/work/Benchmark/Pilot1/NT3/Output/EXP000/RUN000",
+            "run_id: RUN000",
+            "save: .",
+            "gpus: []",
+            "train_data: nt_train2.csv",
+            "metrics: accuracy"
+        ],
+        "run_id": "RUN000",
+        "status": "Started",
+        "experiment_id": "EXP000",
+        "start_time": "2019-08-21 17:15:03.777399"
+    },
+    {
+        "validation_loss": {
+            "set": 0.682107904127666
+        },
+        "run_id": "RUN000",
+        "status": {
+            "set": "Running"
+        },
+        "run_progress": {
+            "add": [
+                "epoch: 1/2, duration: 284.605857s, loss: 0.6889142117330006, val_loss: 0.682107904127666"
+            ]
+        },
+        "training_loss": {
+            "set": 0.6889142117330006
+        }
+    },
+    {
+        "run_id": "RUN000",
+        "status": {
+            "set": "Finished"
+        },
+        "date_modified": {
+            "set": "NOW"
+        },
+        "runtime_hours": {
+            "set": 0.0790577775
+        },
+        "end_time": {
+            "set": "2019-08-21 17:19:48.385398"
+        }
+    }
+][
+    {
+        "status": "Started",
+        "experiment_id": "EXP000",
+        "parameters": [
+            "rng_seed: 7102",
+            "total_params: 154922918",
+            "output_dir: /lus/theta-fs0/projects/EE-ECP/wuxf/work/Benchmark/Pilot1/NT3/Output/EXP000/RUN000",
+            "shuffle: False",
+            "gpus: []",
+            "logfile: None",
+            "epochs: 2",
+            "learning_rate: 0.001",
+            "loss: categorical_crossentropy",
+            "model_name: nt3",
+            "batch_size: 20",
+            "save: .",
+            "pool: [1, 10]",
+            "activation: relu",
+            "test_data: nt_test2.csv",
+            "verbose: None",
+            "train_bool: True",
+            "metrics: accuracy",
+            "non_trainable_params: 0",
+            "timeout: -1",
+            "optimizer: sgd",
+            "conv: [128, 20, 1, 128, 10, 1]",
+            "run_id: RUN000",
+            "train_data: nt_train2.csv",
+            "experiment_id: EXP000",
+            "classes: 2",
+            "drop: 0.1",
+            "datatype: <class 'numpy.float32'>",
+            "dense: [200, 20]",
+            "trainable_params: 154922918",
+            "data_url: file:///lus/theta-fs0/projects/EE-ECP/wuxf/work/Benchmark/Data/Pilot1/",
+            "out_act: softmax"
+        ],
+        "start_time": "2019-08-21 17:15:03.778703",
+        "run_id": "RUN000"
+    },
+    {
+        "run_progress": {
+            "add": [
+                "epoch: 1/2, duration: 284.783735s, loss: 0.6886978575161525, val_loss: 0.682107904127666"
+            ]
+        },
+        "status": {
+            "set": "Running"
+        },
+        "validation_loss": {
+            "set": 0.682107904127666
+        },
+        "training_loss": {
+            "set": 0.6886978575161525
+        },
+        "run_id": "RUN000"
+    },
+    {
+        "date_modified": {
+            "set": "NOW"
+        },
+        "end_time": {
+            "set": "2019-08-21 17:19:48.564403"
+        },
+        "status": {
+            "set": "Finished"
+        },
+        "runtime_hours": {
+            "set": 0.0791071388888889
+        },
+        "run_id": "RUN000"
+    }
+]
